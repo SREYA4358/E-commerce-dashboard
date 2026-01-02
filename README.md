@@ -82,3 +82,5 @@ File Name: -<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main
            
 Dash board interaction: <a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/ecommerce.xlsx"> dashboard
 Source: Provided dataset for analysis
+ dashboard image:<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/Screenshot%202026-01-02%20151746.png"> image of dashboard
+ 
