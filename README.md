@@ -1,8 +1,8 @@
 # E-commerce-dashboard
 Excel-based e-commerce sales analysis dashboard showcasing key KPIs like total orders, revenue, quantity sold, customer ratings, and delivery performance.
 
-**E-Commerce Sales Analysis Dashboard (Excel):
-**
+E-Commerce Sales Analysis Dashboard (Excel):
+
 This project presents an E-Commerce Sales Analysis Dashboard built entirely using Microsoft Excel. The goal of this project is to convert raw e-commerce data into meaningful insights using Excel features such as formulas, Pivot Tables, charts, slicers, and KPI cards—without using any programming languages or BI tools.
 
 **Project Objectives:**
