@@ -1,6 +1,9 @@
 # E-commerce-dashboard
 Excel-based e-commerce sales analysis dashboard showcasing key KPIs like total orders, revenue, quantity sold, customer ratings, and delivery performance.
 
+## Dataset used: 
+-<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/e%20commerce.xlsx">data set</a>
+
 E-Commerce Sales Analysis Dashboard (Excel):
 
 This project presents an E-Commerce Sales Analysis Dashboard built entirely using Microsoft Excel. The goal of this project is to convert raw e-commerce data into meaningful insights using Excel features such as formulas, Pivot Tables, charts, slicers, and KPI cards—without using any programming languages or BI tools.
@@ -66,6 +69,9 @@ Are operations aligned with customer experience metrics?
 
 Can these insights help improve business decisions?
 
+Dash board interaction: <a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/ecommerce.xlsx"> view dashboard</a>
+ 
+
 **Key Outcomes:**
 
 Cleaned and structured e-commerce data using Excel
@@ -78,9 +84,9 @@ Actionable insights using only Excel tools
 
 **Dataset:**
 
-File Name: -<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/e%20commerce.xlsx">data set
+File Name: -<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/e%20commerce.xlsx">data set</a>
            
-Dash board interaction: <a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/ecommerce.xlsx"> dashboard
 Source: Provided dataset for analysis
- dashboard image:<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/Screenshot%202026-01-02%20151746.png"> image of dashboard
+
+ 
  
