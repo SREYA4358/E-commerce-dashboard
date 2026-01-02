@@ -1,4 +1,4 @@
-# E-commerce-dashboard
+# E-commerce sales data analysis
 Excel-based e-commerce sales analysis dashboard showcasing key KPIs like total orders, revenue, quantity sold, customer ratings, and delivery performance.
 
 ## Dataset used: 
