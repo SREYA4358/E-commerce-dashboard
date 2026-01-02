@@ -87,7 +87,7 @@ Actionable insights using only Excel tools
 
 <img width="1120" height="659" alt="Screenshot 2026-01-02 151746" src="https://github.com/user-attachments/assets/caff5cd9-cfb9-4a6a-8cfa-5a822813496b" />
 
-##Conclusion
+## Conclusion
 
 This project demonstrates how Microsoft Excel can be used to analyze e-commerce sales data and create an interactive dashboard. Key business metrics such as total orders, sales amount, quantity sold, customer ratings, and delivery performance were clearly identified using Excel tools. The analysis provides valuable insights into overall business performance and operational efficiency. This project highlights Excel’s effectiveness for data-driven decision-making without using any programming tools.
 
