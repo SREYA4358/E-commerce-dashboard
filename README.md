@@ -82,11 +82,11 @@ Clear visualization of sales, delivery, and rating metrics
 
 Actionable insights using only Excel tools
 
-**Dataset:**
-
-File Name: -<a href="https://github.com/SREYA4358/E-commerce-dashboard/blob/main/e%20commerce.xlsx">data set</a>
            
-Source: Provided dataset for analysis
+## Dashboard
+
+<img width="1120" height="659" alt="Screenshot 2026-01-02 151746" src="https://github.com/user-attachments/assets/caff5cd9-cfb9-4a6a-8cfa-5a822813496b" />
+
 
  
  
